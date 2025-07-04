@@ -1,13 +1,13 @@
 {
   "name": "skeleton",
   "version": "2.0.4",
-  "homepage": "http://getskeleton.com/",
+  "homepage": "http://Skeleton.bauska.org/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dhg/Skeleton"
+    "url": "https://github.com/bbauska/Skeleton"
   },
   "authors": [
-    "Dave Gamache <hello@davegamache.com> (http://davegamache.com/)"
+    "Brian Bauska <brian@brianbauska.org> (http://bauska.org/)"
   ],
   "description": "Skeleton is a dead-simple, responsive boilerplate to kickstart any responsive project.",
   "main": "css/skeleton.css",
